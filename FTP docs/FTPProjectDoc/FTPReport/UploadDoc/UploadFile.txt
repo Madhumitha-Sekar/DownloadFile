@@ -1,0 +1,16 @@
+CustId|CustName|ProductId|Buyer|Seller|Quantity|Price|Date
+1001|Siva|Oil|Siva@gmail.com|Subash@gmail.com|20|50000|21-05-2020
+1002|Saravana|Gas|Saravana@gmail.com|shankar@gmail.com|10|70000|25-05-2020
+1003|Ram|Steel|ram@gmail.com|arun@gmail.com|25|90000|25-05-2020
+1004|Raja|Steel|raja@gmail.com|arun1@gmail.com|35|90000|24-05-2020
+1005|Jay|Gas|Jay@gmail.com|Selva@gmail.com|10|10000|12-06-2020
+1006|John|Gas|John@gmail.com|Selva@gmail.com|50|75000|11-06-2020
+1007|Kumar|Oil|kumar@gmail.com|arul@gmail.com|30|55000|10-06-2020
+1008|Kannan|Steel|Kannan@gmail.com|ajay@gmail.com|40|40000|09-06-2020
+1009|Khan|Oil|Khan@gmail.com|ajay@gmail.com|26|26000|07-06-2020
+1010|Kasi|Oil|Khan@gmail.com|Wasim@gmail.com|37|37000|05-06-2020
+1011|Masi|Gas|Masi@gmail.com|Mani@gmail.com|45|45000|04-06-2020
+1012|Akram|Steel|Akram@gmail.com|Deepak@gmail.com|47|47000|04-06-2020
+1013|Deepak|Steel|Deepak@gmail.com|Arjun@gmail.com|21|21000|03-06-2020
+1014|Arjun|Steel|Arjun@gmail.com|Nathan@gmail.com|17|17000|02-06-2020
+1015|Nakesh|Steel|Nakesh@gmail.com|Arjun@gmail.com|34|34000|19-05-2020

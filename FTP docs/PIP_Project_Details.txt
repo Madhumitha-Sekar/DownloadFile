@@ -1,0 +1,39 @@
+custId, custName, productid, buy, sell, quantity, price, date
+ These info enough ha ji inside the upload file and for report generation(based on price)
+
+
+db:-
+---
+Latest:-
+-------
+hostname: localhost
+port: 27017
+Authentication: None
+-------------------
+hostname: localhost
+port: 27017
+srv record: Not selected
+
+Authentication: Username/password
+Username: ftpdb
+password: 123456
+Authentication Database: admin
+
+mongodb-atlas:-
+-------------
+username:shivashankar356@gmail.com
+password:sivashankar_10
+
+
+Choose your version of Compass:
+1.12 or later
+
+Copy the connection string, then open MongoDB Compass:
+mongodb+srv://ftpdb:<password>@cluster0-snkuw.mongodb.net/test
+mongodb+srv://ftpdb:sivashankar_10@cluster0-snkuw.mongodb.net/test
+
+
+
+Exception:-
+---------
+org.springframework.data.mongodb.UncategorizedMongoDbException: Exception authenticating MongoCredential{mechanism=SCRAM-SHA-1, userName='ftpdb', source='admin', password=<hidden>, mechanismProperties=<hidden>}; nested exception is com.mongodb.MongoSecurityException: Exception authenticating MongoCredential{mechanism=SCRAM-SHA-1, userName='ftpdb', source='admin', password=<hidden>, mechanismProperties=<hidden>}

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Sathish@gmail.com</buyer>
+    <custId>1016</custId>
+    <custName>Sathish</custName>
+    <price>75000.0</price>
+    <productId>Gas</productId>
+    <quantity>75</quantity>
+    <seller>Sarath@gmail.com</seller>
+    <transcDate>2020-05-16T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Siva@gmail.com</buyer>
+    <custId>1001</custId>
+    <custName>Siva</custName>
+    <price>50000.0</price>
+    <productId>Oil</productId>
+    <quantity>20</quantity>
+    <seller>Subash@gmail.com</seller>
+    <transcDate>2020-05-15T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Saravana@gmail.com</buyer>
+    <custId>1002</custId>
+    <custName>Saravana</custName>
+    <price>70000.0</price>
+    <productId>Gas</productId>
+    <quantity>10</quantity>
+    <seller>shankar@gmail.com</seller>
+    <transcDate>2020-05-15T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Siva@gmail.com</buyer>
+    <custId>1001</custId>
+    <custName>Siva</custName>
+    <price>50000.0</price>
+    <productId>Oil</productId>
+    <quantity>20</quantity>
+    <seller>Subash@gmail.com</seller>
+    <transcDate>2020-05-15T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Saravana@gmail.com</buyer>
+    <custId>1002</custId>
+    <custName>Saravana</custName>
+    <price>70000.0</price>
+    <productId>Gas</productId>
+    <quantity>10</quantity>
+    <seller>shankar@gmail.com</seller>
+    <transcDate>2020-05-15T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>ram@gmail.com</buyer>
+    <custId>1003</custId>
+    <custName>Ram</custName>
+    <price>90000.0</price>
+    <productId>Steel</productId>
+    <quantity>25</quantity>
+    <seller>arun@gmail.com</seller>
+    <transcDate>2020-05-15T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>raja@gmail.com</buyer>
+    <custId>1004</custId>
+    <custName>Raja</custName>
+    <price>90000.0</price>
+    <productId>Steel</productId>
+    <quantity>35</quantity>
+    <seller>arun1@gmail.com</seller>
+    <transcDate>2020-05-14T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>kumar@gmail.com</buyer>
+    <custId>1007</custId>
+    <custName>Kumar</custName>
+    <price>55000.0</price>
+    <productId>Oil</productId>
+    <quantity>30</quantity>
+    <seller>arul@gmail.com</seller>
+    <transcDate>2020-05-14T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>John@gmail.com</buyer>
+    <custId>1006</custId>
+    <custName>John</custName>
+    <price>75000.0</price>
+    <productId>Gas</productId>
+    <quantity>50</quantity>
+    <seller>Selva@gmail.com</seller>
+    <transcDate>2020-05-13T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Kannan@gmail.com</buyer>
+    <custId>1008</custId>
+    <custName>Kannan</custName>
+    <price>40000.0</price>
+    <productId>Steel</productId>
+    <quantity>40</quantity>
+    <seller>ajay@gmail.com</seller>
+    <transcDate>2020-05-12T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Khan@gmail.com</buyer>
+    <custId>1010</custId>
+    <custName>Kasi</custName>
+    <price>37000.0</price>
+    <productId>Oil</productId>
+    <quantity>37</quantity>
+    <seller>Wasim@gmail.com</seller>
+    <transcDate>2020-05-11T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Khan@gmail.com</buyer>
+    <custId>1009</custId>
+    <custName>Khan</custName>
+    <price>26000.0</price>
+    <productId>Oil</productId>
+    <quantity>26</quantity>
+    <seller>ajay@gmail.com</seller>
+    <transcDate>2020-05-10T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Masi@gmail.com</buyer>
+    <custId>1011</custId>
+    <custName>Masi</custName>
+    <price>45000.0</price>
+    <productId>Gas</productId>
+    <quantity>45</quantity>
+    <seller>Mani@gmail.com</seller>
+    <transcDate>2020-05-10T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>

@@ -1,0 +1,7 @@
+CustId|CustName|ProductId|Buyer|Seller|Quantity|Price|TranscDate
+1008|Kannan|Steel|Kannan@gmail.com|ajay@gmail.com|40|40000.0|Tue Jun 09 00:00:00 IST 2020
+1009|Khan|Oil|Khan@gmail.com|ajay@gmail.com|26|26000.0|Sun Jun 07 00:00:00 IST 2020
+1010|Kasi|Oil|Khan@gmail.com|Wasim@gmail.com|37|37000.0|Fri Jun 05 00:00:00 IST 2020
+1011|Masi|Gas|Masi@gmail.com|Mani@gmail.com|45|45000.0|Thu Jun 04 00:00:00 IST 2020
+1012|Akram|Steel|Akram@gmail.com|Deepak@gmail.com|47|47000.0|Thu Jun 04 00:00:00 IST 2020
+1013|Deepak|Steel|Deepak@gmail.com|Arjun@gmail.com|21|21000.0|Wed Jun 03 00:00:00 IST 2020

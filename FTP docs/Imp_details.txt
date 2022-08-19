@@ -1,0 +1,22 @@
+SpringBoot:-
+----------
+1. What are the Spring Boot Annotations?
+2. What is Spring Boot dependency management?
+3. What are the advantages of Spring Boot?
+4. How to configure DB using Spring Boot?
+
+MongoDB:-
+-------
+1. What makes MongoDB the best?
+2. What is Aggregation in MongoDB?
+3. Is MongoDB better than other SQL databases? If yes then how?
+4. What are Indexes in MongoDB?
+
+Apache Kafka:-
+------------
+1. What is a Consumer Group?
+2. What is the role of the ZooKeeper in Kafka?
+3. Is it possible to use Kafka without ZooKeeper?
+4. What do you know about Partition in Kafka?
+5. What can you do with Kafka?
+6. Explain the role of the Kafka Producer API?

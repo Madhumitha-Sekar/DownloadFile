@@ -1,0 +1,11 @@
+package com.emp.example.EmployeeProject.repository;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.stereotype.Repository;
+
+import com.emp.example.EmployeeProject.model.Employee;
+
+@Repository
+public interface EmployeeRepository extends MongoRepository<Employee, String> {
+
+}

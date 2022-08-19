@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Kannan@gmail.com</buyer>
+    <custId>1008</custId>
+    <custName>Kannan</custName>
+    <price>40000.0</price>
+    <productId>Steel</productId>
+    <quantity>40</quantity>
+    <seller>ajay@gmail.com</seller>
+    <transcDate>2020-06-09T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Khan@gmail.com</buyer>
+    <custId>1009</custId>
+    <custName>Khan</custName>
+    <price>26000.0</price>
+    <productId>Oil</productId>
+    <quantity>26</quantity>
+    <seller>ajay@gmail.com</seller>
+    <transcDate>2020-06-07T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Khan@gmail.com</buyer>
+    <custId>1010</custId>
+    <custName>Kasi</custName>
+    <price>37000.0</price>
+    <productId>Oil</productId>
+    <quantity>37</quantity>
+    <seller>Wasim@gmail.com</seller>
+    <transcDate>2020-06-05T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Masi@gmail.com</buyer>
+    <custId>1011</custId>
+    <custName>Masi</custName>
+    <price>45000.0</price>
+    <productId>Gas</productId>
+    <quantity>45</quantity>
+    <seller>Mani@gmail.com</seller>
+    <transcDate>2020-06-04T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Akram@gmail.com</buyer>
+    <custId>1012</custId>
+    <custName>Akram</custName>
+    <price>47000.0</price>
+    <productId>Steel</productId>
+    <quantity>47</quantity>
+    <seller>Deepak@gmail.com</seller>
+    <transcDate>2020-06-04T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ftpReportXMLDTO>
+    <buyer>Deepak@gmail.com</buyer>
+    <custId>1013</custId>
+    <custName>Deepak</custName>
+    <price>21000.0</price>
+    <productId>Steel</productId>
+    <quantity>21</quantity>
+    <seller>Arjun@gmail.com</seller>
+    <transcDate>2020-06-03T00:00:00+05:30</transcDate>
+</ftpReportXMLDTO>
